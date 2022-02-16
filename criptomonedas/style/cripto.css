@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(250, 145, 126);
+}
+a.red {
+    color: red;
+}
+h1.title {
+    text-align: center;
+}
+
+footer {
+    background-color: yellow;
+    text-align: center;
+}
