@@ -8,6 +8,9 @@ h1.title {
     text-align: center;
 }
 
+input#quatity {
+    color: red;
+}
 footer {
     background-color: yellow;
     text-align: center;
