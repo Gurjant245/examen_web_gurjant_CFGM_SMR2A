@@ -1,13 +1,17 @@
+/* Color del fondo de toda la pagina */
 body {
     background-color: rgb(250, 145, 126);
 }
+
+/* Color del nombre del autor */
 a.red {
     color: red;
 }
-h1.title {
+header {
     text-align: center;
 }
 
+/* Color rojo del input del value */
 input#quatity {
     color: red;
 }

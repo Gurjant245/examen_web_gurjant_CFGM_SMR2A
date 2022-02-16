@@ -1,6 +1,8 @@
+/* Color del fondo de toda la pagina */
 body {
     background-color: rgb(250, 145, 126);
 }
+/* En el pdf no aparecia la "underline" por lo que el valor es "none"*/
 a.bitLink {
     text-decoration: none;
 }
@@ -10,20 +12,29 @@ a.etheLink {
 a.litLink {
     text-decoration: none;
 }
+
+/* Color del nombre del autor */
 a.red {
     color: red;
 }
 
+/* Color del fondo del pie del pagina */
 footer {
     background-color: yellow;
     text-align: center;
 }
+
+/* El titulo centrado */
 header {
     text-align: center;
 }
+
+/* Padding de izquierda a derecha. */
 div.bitcoin {
     padding-left: 89%;
 }
+
+/* Color del fondo en blanco en el div de Etherum */
 div.etherum {
     background-color: white;
     padding-left: 70%;
